@@ -1,3 +1,4 @@
+### Hi~ 🙋
 
 <!--
 **LuckyXYJ/LuckyXYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luckyXYJ&show_icons=true&theme=light&count_private=true)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaofei86&show_icons=true&icon_color=FFA020&text_color=808080&bg_color=00000000&hide_title=true"/>
 
 - 🔭 I’m currently working on iOS
