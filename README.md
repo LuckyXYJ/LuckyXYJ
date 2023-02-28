@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=luckyxyj&show_icons=true&icon_color=FFA020&text_color=808080&bg_color=00000000&hide_title=true"/>
 
-- 🔭 I’m currently working on iOS
-- 🙅🏻‍♀️ My Personal [Blog](https://luckyxyj.github.io/)
+- 🔭 Focusing on iOS & react-native & Flutter
+- 🏡 I am currently living in Hangzhou
+- 🙅🏻‍♀️ My Personal [LuckyXYJ](https://www.xingyajie.tech/)
+- 💬 Ask me about QQ/Wechat:470446087
 - 📫 How to reach me: positive.xing@gmail.com
