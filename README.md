@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 - 🔭 Focusing on iOS & react-native & Flutter
 - 🏡 I am currently living in Hangzhou
-- 🙅🏻‍♀️ My Personal [LuckyXYJ](https://www.xingyajie.tech/)
+- 🙅🏻‍♀️ My Personal Blog:[LuckyXYJ](https://www.xingyajie.tech/)
 - 💬 Ask me about QQ/Wechat:470446087
 - 📫 How to reach me: positive.xing@gmail.com
