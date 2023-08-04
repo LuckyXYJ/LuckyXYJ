@@ -21,6 +21,6 @@ about me：
 
 - 🔭 Focusing on iOS & react-native & Flutter
 - 🏡 I am currently living in Hangzhou
-- 🙅🏻‍♀️ My Personal Blog:[LuckyXYJ](https://www.xingyajie.tech/)
+- 🙅🏻‍♀️ My Personal Blog:[LuckyXYJ](http://xingyajie.tech/)
 - 💬 Ask me about QQ/Wechat: 470446087
 - 📫 How to reach me: positive.xing@gmail.com
